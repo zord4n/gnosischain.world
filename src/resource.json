@@ -13,6 +13,17 @@
     "des_es": "Ninguna plataforma de código para lanzar la mágica comunidad de Internet."
   },
   {
+    "name": "LI.FI ",
+    "name_en": "LI.FI",
+    "desc": "Li.Finance provides the best cross-chain swap across all liquidity pools and bridges",
+    "desc_en": "Li.Finance provides the best cross-chain swap across all liquidity pools and bridges",
+    "url": "https://li.finance/",
+    "tag": "基础设施",
+    "tag_en": "Infrastructure",
+    "logo": "/images/LI.FI%20logo%20blue%20bg.png",
+    "image": "",
+},
+  {
     "name": "Gnosis",
     "name_en": "Gnosis",
     "desc": "去中心化金融的新市场机制",
